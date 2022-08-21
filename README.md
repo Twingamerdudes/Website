@@ -1,4 +1,4 @@
 # Website
 This is just my website.
-To run it, just run npm install within the folder.
-Then run npm run dev.
+To test, just run `npm run`. 
+After that command is done running, run `npm run dev` or `npm run build`
