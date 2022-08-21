@@ -1,10 +1,10 @@
 <script lang="ts">
-	import Posts from "$lib/Posts.svelte"
+
 </script>
 
 <svelte:head>
-	<title>Blog</title>
-	<meta name="description" content="Blog" />
+	<title>Welcome</title>
+	<meta name="description" content="Welcome Post" />
 </svelte:head>
 
 <div class="post">
