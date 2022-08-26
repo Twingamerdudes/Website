@@ -16,5 +16,7 @@ import Post from "$lib/Post.svelte";
 </div>
 
 <style>
-
+	p{
+		text-align: center;
+	}
 </style>
