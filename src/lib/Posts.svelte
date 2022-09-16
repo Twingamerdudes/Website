@@ -7,6 +7,7 @@ import Post from "$lib/Post.svelte";
 	description="<p>Here's a little short...</p>" 
 	link="/blog/Update">
 	</Post>
+	<br>
 	<Post title="How I remade the python operators!" description="
 	<p>Hello everyone. Today, I decid...</p>"
 	link="/blog/MathLibary"
