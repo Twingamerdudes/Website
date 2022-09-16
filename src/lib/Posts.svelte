@@ -3,6 +3,10 @@ import Post from "$lib/Post.svelte";
 </script>
 
 <div class="Posts">
+	<Post title="Update" 
+	description="<p>Here's a little short...</p>" 
+	link="/blog/Update">
+	</Post>
 	<Post title="How I remade the python operators!" description="
 	<p>Hello everyone. Today, I decid...</p>"
 	link="/blog/MathLibary"
